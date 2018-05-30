@@ -1,0 +1,6 @@
+projectKey=Maven-project
+serverUrl=http://159.203.27.94:9002
+serverVersion=6.4.0.25310
+dashboardUrl=http://159.203.27.94:9002/dashboard/index/Maven-project
+ceTaskId=AWOwfAv85Ej9z8y-2aZd
+ceTaskUrl=http://159.203.27.94:9002/api/ce/task?id=AWOwfAv85Ej9z8y-2aZd
