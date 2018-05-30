@@ -9,7 +9,8 @@ public class Greeter {
    * This is a constructor.
    */
   public Greeter() {
-	throw new UnsupportedOperationException("Implement");
+	//empty constructor
+	super();
   }
 
 /**
